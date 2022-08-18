@@ -1,0 +1,659 @@
+timeid,districtid,cases
+2021-08-14,Unknown,2
+2021-08-14,Anantapur,234
+2021-08-14,Chittoor,2550
+2021-08-14,East Godavari,3122
+2021-08-14,Foreign Evacuees,0
+2021-08-14,Guntur,1553
+2021-08-14,Krishna,2942
+2021-08-14,Kurnool,127
+2021-08-14,Other State,0
+2021-08-14,Prakasam,1270
+2021-08-14,S.P.S. Nellore,2644
+2021-08-14,Srikakulam,571
+2021-08-14,Visakhapatnam,648
+2021-08-14,Vizianagaram,212
+2021-08-14,West Godavari,1736
+2021-08-14,Y.S.R. Kadapa,601
+2021-08-14,Anjaw,28
+2021-08-14,Capital Complex,0
+2021-08-14,Changlang,88
+2021-08-14,East Kameng,30
+2021-08-14,East Siang,85
+2021-08-14,Kamle,62
+2021-08-14,Kra Daadi,7
+2021-08-14,Kurung Kumey,1
+2021-08-14,Lepa Rada,59
+2021-08-14,Lohit,132
+2021-08-14,Longding,12
+2021-08-14,Lower Dibang Valley,70
+2021-08-14,Lower Siang,34
+2021-08-14,Lower Subansiri,260
+2021-08-14,Namsai,40
+2021-08-14,Pakke Kessang,12
+2021-08-14,Papum Pare,728
+2021-08-14,Shi Yomi,21
+2021-08-14,Siang,14
+2021-08-14,Tawang,94
+2021-08-14,Tirap,9
+2021-08-14,Upper Dibang Valley,23
+2021-08-14,Upper Siang,68
+2021-08-14,Upper Subansiri,59
+2021-08-14,West Kameng,148
+2021-08-14,West Siang,43
+2021-08-14,Dibrugarh,0
+2021-08-14,Udalguri,0
+2021-08-14,Unknown,9776
+2021-08-14,Araria,8
+2021-08-14,Arwal,8
+2021-08-14,Aurangabad,1
+2021-08-14,Banka,1
+2021-08-14,Begusarai,8
+2021-08-14,Bhagalpur,7
+2021-08-14,Bhojpur,1
+2021-08-14,Buxar,0
+2021-08-14,Darbhanga,23
+2021-08-14,East Champaran,7
+2021-08-14,Gaya,6
+2021-08-14,Gopalganj,1
+2021-08-14,Jamui,5
+2021-08-14,Jehanabad,2
+2021-08-14,Kaimur,0
+2021-08-14,Katihar,13
+2021-08-14,Khagaria,2
+2021-08-14,Kishanganj,16
+2021-08-14,Lakhisarai,6
+2021-08-14,Madhepura,7
+2021-08-14,Madhubani,6
+2021-08-14,Munger,1
+2021-08-14,Muzaffarpur,8
+2021-08-14,Nalanda,12
+2021-08-14,Nawada,2
+2021-08-14,Patna,38
+2021-08-14,Purnia,3
+2021-08-14,Rohtas,7
+2021-08-14,Saharsa,4
+2021-08-14,Samastipur,23
+2021-08-14,Saran,1
+2021-08-14,Sheikhpura,0
+2021-08-14,Sheohar,2
+2021-08-14,Sitamarhi,3
+2021-08-14,Siwan,1
+2021-08-14,Supaul,3
+2021-08-14,Vaishali,13
+2021-08-14,West Champaran,2
+2021-08-14,Chandigarh,44
+2021-08-14,Balod,18
+2021-08-14,Baloda Bazar,90
+2021-08-14,Balrampur,26
+2021-08-14,Bametara,4
+2021-08-14,Bastar,157
+2021-08-14,Bijapur,56
+2021-08-14,Bilaspur,61
+2021-08-14,Dakshin Bastar Dantewada,32
+2021-08-14,Dhamtari,39
+2021-08-14,Durg,58
+2021-08-14,Gariaband,27
+2021-08-14,Gaurela Pendra Marwahi,10
+2021-08-14,Janjgir Champa,109
+2021-08-14,Jashpur,93
+2021-08-14,Kabeerdham,9
+2021-08-14,Kondagaon,24
+2021-08-14,Korba,69
+2021-08-14,Koriya,44
+2021-08-14,Mahasamund,33
+2021-08-14,Mungeli,14
+2021-08-14,Narayanpur,33
+2021-08-14,Other State,9
+2021-08-14,Raigarh,78
+2021-08-14,Raipur,66
+2021-08-14,Rajnandgaon,11
+2021-08-14,Sukma,38
+2021-08-14,Surajpur,27
+2021-08-14,Surguja,25
+2021-08-14,Uttar Bastar Kanker,101
+2021-08-14,Delhi,478
+2021-08-14,Dadra and Nagar Haveli,6
+2021-08-14,Daman,28
+2021-08-14,Diu,0
+2021-08-14,Unknown,925
+2021-08-14,Ahmedabad,59
+2021-08-14,Amreli,2
+2021-08-14,Anand,6
+2021-08-14,Aravalli,1
+2021-08-14,Banaskantha,0
+2021-08-14,Bharuch,0
+2021-08-14,Bhavnagar,4
+2021-08-14,Botad,1
+2021-08-14,Chhota Udaipur,0
+2021-08-14,Dahod,3
+2021-08-14,Dang,0
+2021-08-14,Devbhumi Dwarka,1
+2021-08-14,Gandhinagar,8
+2021-08-14,Gir Somnath,1
+2021-08-14,Jamnagar,6
+2021-08-14,Junagadh,2
+2021-08-14,Kheda,3
+2021-08-14,Kutch,0
+2021-08-14,Mahisagar,1
+2021-08-14,Mehsana,4
+2021-08-14,Morbi,0
+2021-08-14,Narmada,0
+2021-08-14,Navsari,4
+2021-08-14,Other State,0
+2021-08-14,Panchmahal,0
+2021-08-14,Patan,0
+2021-08-14,Porbandar,3
+2021-08-14,Rajkot,15
+2021-08-14,Sabarkantha,0
+2021-08-14,Surat,16
+2021-08-14,Surendranagar,0
+2021-08-14,Tapi,1
+2021-08-14,Vadodara,43
+2021-08-14,Valsad,1
+2021-08-14,Bilaspur,211
+2021-08-14,Chamba,684
+2021-08-14,Hamirpur,251
+2021-08-14,Kangra,495
+2021-08-14,Kinnaur,32
+2021-08-14,Kullu,157
+2021-08-14,Lahaul and Spiti,62
+2021-08-14,Mandi,514
+2021-08-14,Shimla,337
+2021-08-14,Sirmaur,29
+2021-08-14,Solan,45
+2021-08-14,Una,39
+2021-08-14,Ambala,11
+2021-08-14,Bhiwani,48
+2021-08-14,Charkhi Dadri,5
+2021-08-14,Faridabad,23
+2021-08-14,Fatehabad,9
+2021-08-14,Gurugram,71
+2021-08-14,Hisar,104
+2021-08-14,Jhajjar,23
+2021-08-14,Jind,16
+2021-08-14,Kaithal,14
+2021-08-14,Karnal,34
+2021-08-14,Kurukshetra,5
+2021-08-14,Mahendragarh,1
+2021-08-14,Nuh,1
+2021-08-14,Palwal,6
+2021-08-14,Panchkula,25
+2021-08-14,Panipat,90
+2021-08-14,Rewari,20
+2021-08-14,Rohtak,88
+2021-08-14,Sirsa,52
+2021-08-14,Sonipat,1
+2021-08-14,Yamunanagar,7
+2021-08-14,Bokaro,4
+2021-08-14,Chatra,2
+2021-08-14,Deoghar,12
+2021-08-14,Dhanbad,27
+2021-08-14,Dumka,1
+2021-08-14,East Singhbhum,11
+2021-08-14,Garhwa,2
+2021-08-14,Giridih,1
+2021-08-14,Godda,3
+2021-08-14,Gumla,1
+2021-08-14,Hazaribagh,3
+2021-08-14,Jamtara,2
+2021-08-14,Khunti,8
+2021-08-14,Koderma,7
+2021-08-14,Latehar,2
+2021-08-14,Lohardaga,3
+2021-08-14,Pakur,7
+2021-08-14,Palamu,0
+2021-08-14,Ramgarh,8
+2021-08-14,Ranchi,98
+2021-08-14,Sahibganj,3
+2021-08-14,Saraikela-Kharsawan,4
+2021-08-14,Simdega,5
+2021-08-14,West Singhbhum,3
+2021-08-14,Anantnag,39
+2021-08-14,Bandipora,47
+2021-08-14,Baramulla,73
+2021-08-14,Budgam,82
+2021-08-14,Doda,94
+2021-08-14,Ganderbal,70
+2021-08-14,Jammu,130
+2021-08-14,Kathua,9
+2021-08-14,Kishtwar,53
+2021-08-14,Kulgam,38
+2021-08-14,Kupwara,40
+2021-08-14,Pulwama,38
+2021-08-14,Punch,29
+2021-08-14,Rajouri,64
+2021-08-14,Ramban,10
+2021-08-14,Reasi,96
+2021-08-14,Samba,8
+2021-08-14,Shopiyan,5
+2021-08-14,Srinagar,326
+2021-08-14,Udhampur,52
+2021-08-14,Bagalkote,45
+2021-08-14,Ballari,195
+2021-08-14,Belagavi,443
+2021-08-14,Bengaluru Rural,350
+2021-08-14,Bengaluru Urban,8201
+2021-08-14,Bidar,12
+2021-08-14,Chamarajanagara,275
+2021-08-14,Chikkaballapura,89
+2021-08-14,Chikkamagaluru,1117
+2021-08-14,Chitradurga,406
+2021-08-14,Dakshina Kannada,3687
+2021-08-14,Davanagere,184
+2021-08-14,Dharwad,129
+2021-08-14,Gadag,18
+2021-08-14,Hassan,1345
+2021-08-14,Haveri,25
+2021-08-14,Kalaburagi,87
+2021-08-14,Kodagu,719
+2021-08-14,Kolar,227
+2021-08-14,Koppal,57
+2021-08-14,Mandya,403
+2021-08-14,Mysuru,1127
+2021-08-14,Other State,0
+2021-08-14,Raichur,28
+2021-08-14,Ramanagara,80
+2021-08-14,Shivamogga,608
+2021-08-14,Tumakuru,759
+2021-08-14,Udupi,1519
+2021-08-14,Uttara Kannada,548
+2021-08-14,Vijayapura,27
+2021-08-14,Yadgir,14
+2021-08-14,Alappuzha,8481
+2021-08-14,Ernakulam,27165
+2021-08-14,Idukki,6801
+2021-08-14,Kannur,8722
+2021-08-14,Kasaragod,8244
+2021-08-14,Kollam,4085
+2021-08-14,Kottayam,8327
+2021-08-14,Kozhikode,24046
+2021-08-14,Malappuram,29685
+2021-08-14,Palakkad,18527
+2021-08-14,Pathanamthitta,8954
+2021-08-14,Thiruvananthapuram,9153
+2021-08-14,Thrissur,10470
+2021-08-14,Wayanad,8104
+2021-08-14,Kargil,20
+2021-08-14,Leh,60
+2021-08-14,Lakshadweep,81
+2021-08-14,Ahmednagar,5424
+2021-08-14,Akola,38
+2021-08-14,Amravati,57
+2021-08-14,Aurangabad,563
+2021-08-14,Beed,1406
+2021-08-14,Bhandara,10
+2021-08-14,Buldhana,12
+2021-08-14,Chandrapur,101
+2021-08-14,Dhule,16
+2021-08-14,Gadchiroli,62
+2021-08-14,Gondia,10
+2021-08-14,Hingoli,83
+2021-08-14,Jalgaon,343
+2021-08-14,Jalna,151
+2021-08-14,Kolhapur,3941
+2021-08-14,Latur,513
+2021-08-14,Mumbai,5547
+2021-08-14,Nagpur,281
+2021-08-14,Nanded,58
+2021-08-14,Nandurbar,3
+2021-08-14,Nashik,1011
+2021-08-14,Osmanabad,1142
+2021-08-14,Other State,30
+2021-08-14,Palghar,507
+2021-08-14,Parbhani,59
+2021-08-14,Pune,15060
+2021-08-14,Raigad,1207
+2021-08-14,Ratnagiri,1738
+2021-08-14,Sangli,6600
+2021-08-14,Satara,7322
+2021-08-14,Sindhudurg,1508
+2021-08-14,Solapur,5110
+2021-08-14,Thane,6610
+2021-08-14,Wardha,170
+2021-08-14,Washim,18
+2021-08-14,Yavatmal,20
+2021-08-14,East Garo Hills,43
+2021-08-14,East Jaintia Hills,51
+2021-08-14,East Khasi Hills,1578
+2021-08-14,North Garo Hills,41
+2021-08-14,Ribhoi,429
+2021-08-14,South Garo Hills,41
+2021-08-14,South West Garo Hills,41
+2021-08-14,South West Khasi Hills,207
+2021-08-14,West Garo Hills,450
+2021-08-14,West Jaintia Hills,442
+2021-08-14,West Khasi Hills,608
+2021-08-14,Churachandpur,0
+2021-08-14,Unknown,6528
+2021-08-14,Agar Malwa,0
+2021-08-14,Alirajpur,0
+2021-08-14,Anuppur,0
+2021-08-14,Ashoknagar,0
+2021-08-14,Balaghat,12
+2021-08-14,Barwani,6
+2021-08-14,Betul,34
+2021-08-14,Bhind,2
+2021-08-14,Bhopal,241
+2021-08-14,Burhanpur,0
+2021-08-14,Chhatarpur,10
+2021-08-14,Chhindwara,0
+2021-08-14,Damoh,93
+2021-08-14,Datia,6
+2021-08-14,Dewas,0
+2021-08-14,Dhar,15
+2021-08-14,Dindori,6
+2021-08-14,Guna,3
+2021-08-14,Gwalior,36
+2021-08-14,Harda,5
+2021-08-14,Hoshangabad,11
+2021-08-14,Indore,216
+2021-08-14,Jabalpur,79
+2021-08-14,Jhabua,5
+2021-08-14,Katni,3
+2021-08-14,Khandwa,0
+2021-08-14,Khargone,10
+2021-08-14,Mandla,4
+2021-08-14,Mandsaur,1
+2021-08-14,Morena,6
+2021-08-14,Narsinghpur,4
+2021-08-14,Neemuch,12
+2021-08-14,Niwari,9
+2021-08-14,Panna,6
+2021-08-14,Raisen,9
+2021-08-14,Rajgarh,38
+2021-08-14,Ratlam,32
+2021-08-14,Rewa,6
+2021-08-14,Sagar,49
+2021-08-14,Satna,3
+2021-08-14,Sehore,6
+2021-08-14,Seoni,7
+2021-08-14,Shahdol,4
+2021-08-14,Shajapur,2
+2021-08-14,Sheopur,1
+2021-08-14,Shivpuri,7
+2021-08-14,Sidhi,0
+2021-08-14,Singrauli,5
+2021-08-14,Tikamgarh,7
+2021-08-14,Ujjain,4
+2021-08-14,Umaria,6
+2021-08-14,Unknown,-914
+2021-08-14,Vidisha,4
+2021-08-14,Aizawl,7396
+2021-08-14,Champhai,256
+2021-08-14,Hnahthial,27
+2021-08-14,Khawzawl,0
+2021-08-14,Kolasib,966
+2021-08-14,Lawngtlai,392
+2021-08-14,Lunglei,481
+2021-08-14,Mamit,487
+2021-08-14,Saiha,144
+2021-08-14,Saitual,11
+2021-08-14,Serchhip,31
+2021-08-14,Dimapur,1041
+2021-08-14,Kiphire,18
+2021-08-14,Kohima,437
+2021-08-14,Longleng,41
+2021-08-14,Mokokchung,269
+2021-08-14,Mon,39
+2021-08-14,Peren,85
+2021-08-14,Phek,7
+2021-08-14,Tuensang,40
+2021-08-14,Wokha,54
+2021-08-14,Zunheboto,81
+2021-08-14,Angul,165
+2021-08-14,Balangir,43
+2021-08-14,Balasore,580
+2021-08-14,Bargarh,69
+2021-08-14,Bhadrak,228
+2021-08-14,Boudh,14
+2021-08-14,Cuttack,1146
+2021-08-14,Deogarh,33
+2021-08-14,Dhenkanal,162
+2021-08-14,Gajapati,21
+2021-08-14,Ganjam,42
+2021-08-14,Jagatsinghpur,468
+2021-08-14,Jajpur,461
+2021-08-14,Jharsuguda,38
+2021-08-14,Kalahandi,39
+2021-08-14,Kandhamal,75
+2021-08-14,Kendrapara,243
+2021-08-14,Kendujhar,110
+2021-08-14,Khordha,3442
+2021-08-14,Koraput,31
+2021-08-14,Malkangiri,50
+2021-08-14,Mayurbhanj,260
+2021-08-14,Nabarangapur,13
+2021-08-14,Nayagarh,253
+2021-08-14,Nuapada,17
+2021-08-14,Puri,329
+2021-08-14,Rayagada,85
+2021-08-14,Sambalpur,95
+2021-08-14,State Pool,769
+2021-08-14,Subarnapur,41
+2021-08-14,Sundargarh,112
+2021-08-14,Amritsar,49
+2021-08-14,Barnala,17
+2021-08-14,Bathinda,51
+2021-08-14,Faridkot,14
+2021-08-14,Fatehgarh Sahib,10
+2021-08-14,Fazilka,36
+2021-08-14,Ferozepur,12
+2021-08-14,Gurdaspur,14
+2021-08-14,Hoshiarpur,25
+2021-08-14,Jalandhar,41
+2021-08-14,Kapurthala,23
+2021-08-14,Ludhiana,106
+2021-08-14,Mansa,2
+2021-08-14,Moga,12
+2021-08-14,Pathankot,29
+2021-08-14,Patiala,29
+2021-08-14,Rupnagar,8
+2021-08-14,S.A.S. Nagar,58
+2021-08-14,Sangrur,7
+2021-08-14,Shahid Bhagat Singh Nagar,7
+2021-08-14,Sri Muktsar Sahib,8
+2021-08-14,Tarn Taran,14
+2021-08-14,Karaikal,124
+2021-08-14,Mahe,173
+2021-08-14,Puducherry,619
+2021-08-14,Yanam,20
+2021-08-14,Ajmer,15
+2021-08-14,Alwar,14
+2021-08-14,BSF Camp,0
+2021-08-14,Banswara,3
+2021-08-14,Baran,1
+2021-08-14,Barmer,4
+2021-08-14,Bharatpur,2
+2021-08-14,Bhilwara,0
+2021-08-14,Bikaner,5
+2021-08-14,Bundi,0
+2021-08-14,Chittorgarh,0
+2021-08-14,Churu,0
+2021-08-14,Dausa,1
+2021-08-14,Dholpur,1
+2021-08-14,Dungarpur,0
+2021-08-14,Evacuees,0
+2021-08-14,Ganganagar,2
+2021-08-14,Hanumangarh,4
+2021-08-14,Italians,0
+2021-08-14,Jaipur,60
+2021-08-14,Jaisalmer,1
+2021-08-14,Jalore,4
+2021-08-14,Jhalawar,2
+2021-08-14,Jhunjhunu,0
+2021-08-14,Jodhpur,0
+2021-08-14,Karauli,0
+2021-08-14,Kota,1
+2021-08-14,Nagaur,11
+2021-08-14,Other State,0
+2021-08-14,Pali,11
+2021-08-14,Pratapgarh,5
+2021-08-14,Rajsamand,2
+2021-08-14,Sawai Madhopur,7
+2021-08-14,Sikar,7
+2021-08-14,Sirohi,0
+2021-08-14,Tonk,0
+2021-08-14,Udaipur,45
+2021-08-14,Unknown,2535
+2021-08-14,Unknown,7606
+2021-08-14,Airport Quarantine,9
+2021-08-14,Ariyalur,212
+2021-08-14,Chengalpattu,1193
+2021-08-14,Chennai,2112
+2021-08-14,Coimbatore,2380
+2021-08-14,Cuddalore,784
+2021-08-14,Dharmapuri,289
+2021-08-14,Dindigul,130
+2021-08-14,Erode,1800
+2021-08-14,Kallakurichi,421
+2021-08-14,Kancheepuram,404
+2021-08-14,Kanyakumari,334
+2021-08-14,Karur,200
+2021-08-14,Krishnagiri,259
+2021-08-14,Madurai,222
+2021-08-14,Mayiladuthurai,251
+2021-08-14,Nagapattinam,385
+2021-08-14,Namakkal,536
+2021-08-14,Nilgiris,482
+2021-08-14,Perambalur,86
+2021-08-14,Pudukkottai,368
+2021-08-14,Railway Quarantine,0
+2021-08-14,Ramanathapuram,70
+2021-08-14,Ranipet,200
+2021-08-14,Salem,922
+2021-08-14,Sivaganga,218
+2021-08-14,Tenkasi,83
+2021-08-14,Thanjavur,1078
+2021-08-14,Theni,119
+2021-08-14,Thiruvallur,928
+2021-08-14,Thiruvarur,463
+2021-08-14,Thoothukkudi,164
+2021-08-14,Tiruchirappalli,759
+2021-08-14,Tirunelveli,240
+2021-08-14,Tirupathur,159
+2021-08-14,Tiruppur,920
+2021-08-14,Tiruvannamalai,470
+2021-08-14,Vellore,342
+2021-08-14,Viluppuram,324
+2021-08-14,Virudhunagar,111
+2021-08-14,Dhalai,82
+2021-08-14,Gomati,212
+2021-08-14,Khowai,68
+2021-08-14,North Tripura,159
+2021-08-14,Sipahijala,73
+2021-08-14,South Tripura,218
+2021-08-14,Unokoti,276
+2021-08-14,West Tripura,800
+2021-08-14,Agra,7
+2021-08-14,Aligarh,0
+2021-08-14,Ambedkar Nagar,4
+2021-08-14,Amethi,0
+2021-08-14,Amroha,1
+2021-08-14,Auraiya,1
+2021-08-14,Ayodhya,1
+2021-08-14,Azamgarh,5
+2021-08-14,Baghpat,2
+2021-08-14,Bahraich,0
+2021-08-14,Ballia,0
+2021-08-14,Balrampur,3
+2021-08-14,Banda,1
+2021-08-14,Barabanki,8
+2021-08-14,Bareilly,3
+2021-08-14,Basti,1
+2021-08-14,Bhadohi,2
+2021-08-14,Bijnor,1
+2021-08-14,Budaun,1
+2021-08-14,Bulandshahr,3
+2021-08-14,Chandauli,1
+2021-08-14,Chitrakoot,0
+2021-08-14,Deoria,1
+2021-08-14,Etah,1
+2021-08-14,Etawah,2
+2021-08-14,Farrukhabad,0
+2021-08-14,Fatehpur,6
+2021-08-14,Firozabad,0
+2021-08-14,Gautam Buddha Nagar,20
+2021-08-14,Ghaziabad,11
+2021-08-14,Ghazipur,7
+2021-08-14,Gonda,1
+2021-08-14,Gorakhpur,9
+2021-08-14,Hamirpur,1
+2021-08-14,Hapur,2
+2021-08-14,Hardoi,0
+2021-08-14,Hathras,0
+2021-08-14,Jalaun,6
+2021-08-14,Jaunpur,11
+2021-08-14,Jhansi,4
+2021-08-14,Kannauj,4
+2021-08-14,Kanpur Dehat,3
+2021-08-14,Kanpur Nagar,9
+2021-08-14,Kasganj,0
+2021-08-14,Kaushambi,0
+2021-08-14,Kushinagar,13
+2021-08-14,Lakhimpur Kheri,7
+2021-08-14,Lalitpur,1
+2021-08-14,Lucknow,39
+2021-08-14,Maharajganj,26
+2021-08-14,Mahoba,0
+2021-08-14,Mainpuri,37
+2021-08-14,Mathura,40
+2021-08-14,Mau,2
+2021-08-14,Meerut,10
+2021-08-14,Mirzapur,2
+2021-08-14,Moradabad,3
+2021-08-14,Muzaffarnagar,9
+2021-08-14,Pilibhit,1
+2021-08-14,Pratapgarh,2
+2021-08-14,Prayagraj,35
+2021-08-14,Rae Bareli,31
+2021-08-14,Rampur,8
+2021-08-14,Saharanpur,0
+2021-08-14,Sambhal,2
+2021-08-14,Sant Kabir Nagar,1
+2021-08-14,Shahjahanpur,2
+2021-08-14,Shamli,0
+2021-08-14,Shrawasti,1
+2021-08-14,Siddharthnagar,3
+2021-08-14,Sitapur,2
+2021-08-14,Sonbhadra,2
+2021-08-14,Sultanpur,5
+2021-08-14,Unnao,2
+2021-08-14,Varanasi,17
+2021-08-14,Almora,612
+2021-08-14,Bageshwar,50
+2021-08-14,Chamoli,246
+2021-08-14,Champawat,194
+2021-08-14,Dehradun,720
+2021-08-14,Haridwar,1374
+2021-08-14,Nainital,133
+2021-08-14,Pauri Garhwal,712
+2021-08-14,Pithoragarh,164
+2021-08-14,Rudraprayag,171
+2021-08-14,Tehri Garhwal,891
+2021-08-14,Udham Singh Nagar,815
+2021-08-14,Uttarkashi,361
+2021-08-14,Alipurduar,233
+2021-08-14,Bankura,377
+2021-08-14,Birbhum,123
+2021-08-14,Cooch Behar,524
+2021-08-14,Dakshin Dinajpur,107
+2021-08-14,Darjeeling,1004
+2021-08-14,Hooghly,580
+2021-08-14,Howrah,516
+2021-08-14,Jalpaiguri,603
+2021-08-14,Jhargram,282
+2021-08-14,Kalimpong,266
+2021-08-14,Kolkata,865
+2021-08-14,Malda,79
+2021-08-14,Murshidabad,63
+2021-08-14,Nadia,622
+2021-08-14,North 24 Parganas,1180
+2021-08-14,Other State,0
+2021-08-14,Paschim Bardhaman,196
+2021-08-14,Paschim Medinipur,595
+2021-08-14,Purba Bardhaman,310
+2021-08-14,Purba Medinipur,679
+2021-08-14,Purulia,52
+2021-08-14,South 24 Parganas,700
+2021-08-14,Uttar Dinajpur,122
